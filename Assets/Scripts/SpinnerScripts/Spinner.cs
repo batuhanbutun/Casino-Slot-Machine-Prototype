@@ -39,6 +39,7 @@ namespace SpinnerScripts
             multiplierCount = 0;
             canSpin = true;
             firstSpin = true;
+            betCost = 5;
         }
     
         private void OnDisable()
